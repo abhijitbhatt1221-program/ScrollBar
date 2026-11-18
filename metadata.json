@@ -1,0 +1,6 @@
+{
+  "name": "ScrollBard Studio — Manhwa & Webtoon Recap Production Suite",
+  "description": "End-to-end production workspace and interactive showcase for transforming vertical webtoon and manhwa chapters into narrated recap videos and NLE timelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
